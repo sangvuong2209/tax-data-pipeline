@@ -1,0 +1,13 @@
+services:
+  national-db:
+    image: postgres:16
+    container_name: national_population_db
+    restart: always
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: admin123456
+      POSTGRES_DB: national_population
+    ports:
+      - "5434:5432"
+    volumes:
+      - ./data:/var/lib/postgresql/data

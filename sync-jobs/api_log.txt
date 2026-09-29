@@ -1,0 +1,10 @@
+nohup: ignoring input
+INFO:     Started server process [404129]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     172.20.0.3:48824 - "POST /api/v1/sync/cong-dan/batch HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.3:50062 - "POST /api/v1/sync/cong-dan/batch HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.3:52344 - "POST /api/v1/sync/cong-dan/batch HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.3:43460 - "POST /api/v1/sync/cong-dan/batch HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.3:60702 - "POST /api/v1/sync/cong-dan/batch HTTP/1.1" 500 Internal Server Error

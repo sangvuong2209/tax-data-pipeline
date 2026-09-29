@@ -1,0 +1,13 @@
+services:
+  sample-db:
+    image: postgres:16
+    container_name: sample_finance_db
+    restart: always
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: admin123456
+      POSTGRES_DB: finance_sample
+    ports:
+      - "5433:5432"
+    volumes:
+      - ./data:/var/lib/postgresql/data

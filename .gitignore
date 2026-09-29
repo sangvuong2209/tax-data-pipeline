@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.log
+.env
+*config.py
+*.pyc
+.DS_Store
+
+# Bỏ qua các thư mục dữ liệu database và docker volume
+postgresql/data/
+open-metadata/docker-volume/
+airflow/pg-data/
+national-db/data/
+airflow/airflow-data/

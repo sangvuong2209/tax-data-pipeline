@@ -1,0 +1,82 @@
+﻿ma_co_quan_thue,ten_co_quan_thue,dia_chi,co_quan_cap_tren,dia_ban_hoat_dong
+TCT,Tổng cục Thuế,Hà Nội,,Toàn quốc
+CT-01,Cục Thuế Hà Nội,Hà Nội,TCT,Hà Nội
+CT-01-01,Chi cục Thuế khu vực 1 - Hà Nội,Hà Nội,CT-01,"Khu vực 1, Hà Nội"
+CT-01-02,Chi cục Thuế khu vực 2 - Hà Nội,Hà Nội,CT-01,"Khu vực 2, Hà Nội"
+CT-02,Cục Thuế TP. Hồ Chí Minh,TP. Hồ Chí Minh,TCT,TP. Hồ Chí Minh
+CT-02-01,Chi cục Thuế khu vực 1 - TP. Hồ Chí Minh,TP. Hồ Chí Minh,CT-02,"Khu vực 1, TP. Hồ Chí Minh"
+CT-02-02,Chi cục Thuế khu vực 2 - TP. Hồ Chí Minh,TP. Hồ Chí Minh,CT-02,"Khu vực 2, TP. Hồ Chí Minh"
+CT-03,Cục Thuế Hải Phòng,Hải Phòng,TCT,Hải Phòng
+CT-03-01,Chi cục Thuế khu vực 1 - Hải Phòng,Hải Phòng,CT-03,"Khu vực 1, Hải Phòng"
+CT-03-02,Chi cục Thuế khu vực 2 - Hải Phòng,Hải Phòng,CT-03,"Khu vực 2, Hải Phòng"
+CT-03-03,Chi cục Thuế khu vực 3 - Hải Phòng,Hải Phòng,CT-03,"Khu vực 3, Hải Phòng"
+CT-03-04,Chi cục Thuế khu vực 4 - Hải Phòng,Hải Phòng,CT-03,"Khu vực 4, Hải Phòng"
+CT-04,Cục Thuế Đà Nẵng,Đà Nẵng,TCT,Đà Nẵng
+CT-04-01,Chi cục Thuế khu vực 1 - Đà Nẵng,Đà Nẵng,CT-04,"Khu vực 1, Đà Nẵng"
+CT-04-02,Chi cục Thuế khu vực 2 - Đà Nẵng,Đà Nẵng,CT-04,"Khu vực 2, Đà Nẵng"
+CT-04-03,Chi cục Thuế khu vực 3 - Đà Nẵng,Đà Nẵng,CT-04,"Khu vực 3, Đà Nẵng"
+CT-05,Cục Thuế Cần Thơ,Cần Thơ,TCT,Cần Thơ
+CT-05-01,Chi cục Thuế khu vực 1 - Cần Thơ,Cần Thơ,CT-05,"Khu vực 1, Cần Thơ"
+CT-05-02,Chi cục Thuế khu vực 2 - Cần Thơ,Cần Thơ,CT-05,"Khu vực 2, Cần Thơ"
+CT-05-03,Chi cục Thuế khu vực 3 - Cần Thơ,Cần Thơ,CT-05,"Khu vực 3, Cần Thơ"
+CT-06,Cục Thuế An Giang,An Giang,TCT,An Giang
+CT-06-01,Chi cục Thuế khu vực 1 - An Giang,An Giang,CT-06,"Khu vực 1, An Giang"
+CT-06-02,Chi cục Thuế khu vực 2 - An Giang,An Giang,CT-06,"Khu vực 2, An Giang"
+CT-06-03,Chi cục Thuế khu vực 3 - An Giang,An Giang,CT-06,"Khu vực 3, An Giang"
+CT-07,Cục Thuế Bắc Giang,Bắc Giang,TCT,Bắc Giang
+CT-07-01,Chi cục Thuế khu vực 1 - Bắc Giang,Bắc Giang,CT-07,"Khu vực 1, Bắc Giang"
+CT-07-02,Chi cục Thuế khu vực 2 - Bắc Giang,Bắc Giang,CT-07,"Khu vực 2, Bắc Giang"
+CT-08,Cục Thuế Bắc Ninh,Bắc Ninh,TCT,Bắc Ninh
+CT-08-01,Chi cục Thuế khu vực 1 - Bắc Ninh,Bắc Ninh,CT-08,"Khu vực 1, Bắc Ninh"
+CT-08-02,Chi cục Thuế khu vực 2 - Bắc Ninh,Bắc Ninh,CT-08,"Khu vực 2, Bắc Ninh"
+CT-09,Cục Thuế Bình Dương,Bình Dương,TCT,Bình Dương
+CT-09-01,Chi cục Thuế khu vực 1 - Bình Dương,Bình Dương,CT-09,"Khu vực 1, Bình Dương"
+CT-09-02,Chi cục Thuế khu vực 2 - Bình Dương,Bình Dương,CT-09,"Khu vực 2, Bình Dương"
+CT-09-03,Chi cục Thuế khu vực 3 - Bình Dương,Bình Dương,CT-09,"Khu vực 3, Bình Dương"
+CT-09-04,Chi cục Thuế khu vực 4 - Bình Dương,Bình Dương,CT-09,"Khu vực 4, Bình Dương"
+CT-09-05,Chi cục Thuế khu vực 5 - Bình Dương,Bình Dương,CT-09,"Khu vực 5, Bình Dương"
+CT-10,Cục Thuế Bình Định,Bình Định,TCT,Bình Định
+CT-10-01,Chi cục Thuế khu vực 1 - Bình Định,Bình Định,CT-10,"Khu vực 1, Bình Định"
+CT-10-02,Chi cục Thuế khu vực 2 - Bình Định,Bình Định,CT-10,"Khu vực 2, Bình Định"
+CT-11,Cục Thuế Đồng Nai,Đồng Nai,TCT,Đồng Nai
+CT-11-01,Chi cục Thuế khu vực 1 - Đồng Nai,Đồng Nai,CT-11,"Khu vực 1, Đồng Nai"
+CT-11-02,Chi cục Thuế khu vực 2 - Đồng Nai,Đồng Nai,CT-11,"Khu vực 2, Đồng Nai"
+CT-12,Cục Thuế Hải Dương,Hải Dương,TCT,Hải Dương
+CT-12-01,Chi cục Thuế khu vực 1 - Hải Dương,Hải Dương,CT-12,"Khu vực 1, Hải Dương"
+CT-12-02,Chi cục Thuế khu vực 2 - Hải Dương,Hải Dương,CT-12,"Khu vực 2, Hải Dương"
+CT-13,Cục Thuế Khánh Hòa,Khánh Hòa,TCT,Khánh Hòa
+CT-13-01,Chi cục Thuế khu vực 1 - Khánh Hòa,Khánh Hòa,CT-13,"Khu vực 1, Khánh Hòa"
+CT-13-02,Chi cục Thuế khu vực 2 - Khánh Hòa,Khánh Hòa,CT-13,"Khu vực 2, Khánh Hòa"
+CT-13-03,Chi cục Thuế khu vực 3 - Khánh Hòa,Khánh Hòa,CT-13,"Khu vực 3, Khánh Hòa"
+CT-14,Cục Thuế Nghệ An,Nghệ An,TCT,Nghệ An
+CT-14-01,Chi cục Thuế khu vực 1 - Nghệ An,Nghệ An,CT-14,"Khu vực 1, Nghệ An"
+CT-14-02,Chi cục Thuế khu vực 2 - Nghệ An,Nghệ An,CT-14,"Khu vực 2, Nghệ An"
+CT-14-03,Chi cục Thuế khu vực 3 - Nghệ An,Nghệ An,CT-14,"Khu vực 3, Nghệ An"
+CT-15,Cục Thuế Quảng Ninh,Quảng Ninh,TCT,Quảng Ninh
+CT-15-01,Chi cục Thuế khu vực 1 - Quảng Ninh,Quảng Ninh,CT-15,"Khu vực 1, Quảng Ninh"
+CT-15-02,Chi cục Thuế khu vực 2 - Quảng Ninh,Quảng Ninh,CT-15,"Khu vực 2, Quảng Ninh"
+CT-16,Cục Thuế Thanh Hóa,Thanh Hóa,TCT,Thanh Hóa
+CT-16-01,Chi cục Thuế khu vực 1 - Thanh Hóa,Thanh Hóa,CT-16,"Khu vực 1, Thanh Hóa"
+CT-16-02,Chi cục Thuế khu vực 2 - Thanh Hóa,Thanh Hóa,CT-16,"Khu vực 2, Thanh Hóa"
+CT-16-03,Chi cục Thuế khu vực 3 - Thanh Hóa,Thanh Hóa,CT-16,"Khu vực 3, Thanh Hóa"
+CT-17,Cục Thuế Thừa Thiên Huế,Thừa Thiên Huế,TCT,Thừa Thiên Huế
+CT-17-01,Chi cục Thuế khu vực 1 - Thừa Thiên Huế,Thừa Thiên Huế,CT-17,"Khu vực 1, Thừa Thiên Huế"
+CT-17-02,Chi cục Thuế khu vực 2 - Thừa Thiên Huế,Thừa Thiên Huế,CT-17,"Khu vực 2, Thừa Thiên Huế"
+CT-17-03,Chi cục Thuế khu vực 3 - Thừa Thiên Huế,Thừa Thiên Huế,CT-17,"Khu vực 3, Thừa Thiên Huế"
+CT-17-04,Chi cục Thuế khu vực 4 - Thừa Thiên Huế,Thừa Thiên Huế,CT-17,"Khu vực 4, Thừa Thiên Huế"
+CT-17-05,Chi cục Thuế khu vực 5 - Thừa Thiên Huế,Thừa Thiên Huế,CT-17,"Khu vực 5, Thừa Thiên Huế"
+CT-18,Cục Thuế Lâm Đồng,Lâm Đồng,TCT,Lâm Đồng
+CT-18-01,Chi cục Thuế khu vực 1 - Lâm Đồng,Lâm Đồng,CT-18,"Khu vực 1, Lâm Đồng"
+CT-18-02,Chi cục Thuế khu vực 2 - Lâm Đồng,Lâm Đồng,CT-18,"Khu vực 2, Lâm Đồng"
+CT-18-03,Chi cục Thuế khu vực 3 - Lâm Đồng,Lâm Đồng,CT-18,"Khu vực 3, Lâm Đồng"
+CT-19,Cục Thuế Đắk Lắk,Đắk Lắk,TCT,Đắk Lắk
+CT-19-01,Chi cục Thuế khu vực 1 - Đắk Lắk,Đắk Lắk,CT-19,"Khu vực 1, Đắk Lắk"
+CT-19-02,Chi cục Thuế khu vực 2 - Đắk Lắk,Đắk Lắk,CT-19,"Khu vực 2, Đắk Lắk"
+CT-19-03,Chi cục Thuế khu vực 3 - Đắk Lắk,Đắk Lắk,CT-19,"Khu vực 3, Đắk Lắk"
+CT-19-04,Chi cục Thuế khu vực 4 - Đắk Lắk,Đắk Lắk,CT-19,"Khu vực 4, Đắk Lắk"
+CT-19-05,Chi cục Thuế khu vực 5 - Đắk Lắk,Đắk Lắk,CT-19,"Khu vực 5, Đắk Lắk"
+CT-20,Cục Thuế Kiên Giang,Kiên Giang,TCT,Kiên Giang
+CT-20-01,Chi cục Thuế khu vực 1 - Kiên Giang,Kiên Giang,CT-20,"Khu vực 1, Kiên Giang"
+CT-20-02,Chi cục Thuế khu vực 2 - Kiên Giang,Kiên Giang,CT-20,"Khu vực 2, Kiên Giang"
+CT-20-03,Chi cục Thuế khu vực 3 - Kiên Giang,Kiên Giang,CT-20,"Khu vực 3, Kiên Giang"
+CT-20-04,Chi cục Thuế khu vực 4 - Kiên Giang,Kiên Giang,CT-20,"Khu vực 4, Kiên Giang"
