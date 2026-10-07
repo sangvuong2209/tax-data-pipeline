@@ -1,0 +1,8 @@
+services:
+  trino:
+    image: trinodb/trino:440
+    container_name: trino_btc
+    ports:
+      - "8083:8080"
+    volumes:
+      - ./catalog:/etc/trino/catalog

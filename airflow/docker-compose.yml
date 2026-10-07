@@ -2,7 +2,7 @@ x-airflow-common-env: &airflow-common-env
   AIRFLOW__CORE__EXECUTOR: LocalExecutor
   AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow_pass@airflow-db/airflow
   AIRFLOW__CORE__LOAD_EXAMPLES: 'false'
-  _PIP_ADDITIONAL_REQUIREMENTS: apache-airflow-providers-openlineage
+  _PIP_ADDITIONAL_REQUIREMENTS: "apache-airflow-providers-openlineage psycopg2-binary requests"
   AIRFLOW__OPENLINEAGE__NAMESPACE: airflow-btc
   OPENLINEAGE_CLIENT_LOGGING: "DEBUG"
   AIRFLOW__OPENLINEAGE__TRANSPORT: '{"type": "http", "url": "http://192.168.100.131:8585/api/v1/openlineage/", "endpoint": "lineage", "auth": {"type": "api_key", "api_key": "eyJraWQiOiJHYjM4OWEtOWY3Ni1nZGpzLWE5MmotMDI0MmJrOTQzNTYiLCJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJvcGVuLW1ldGFkYXRhLm9yZyIsInN1YiI6ImluZ2VzdGlvbi1ib3QiLCJyb2xlcyI6WyJJbmdlc3Rpb25Cb3RSb2xlIl0sImVtYWlsIjoiaW5nZXN0aW9uLWJvdEBvcGVuLW1ldGFkYXRhLm9yZyIsImlzQm90Ijp0cnVlLCJ0b2tlblR5cGUiOiJCT1QiLCJ1c2VybmFtZSI6ImluZ2VzdGlvbi1ib3QiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJpbmdlc3Rpb24tYm90IiwiaWF0IjoxNzg5NDQzNzQ0LCJleHAiOm51bGx9.PasqPL3Eq7cXytmAJ_87aQlA9HSxinu4ZyeKZqq0js5BB7a6ox64oS8qon78LKSqLmqtndyBOhckorPfeJ4RKhAXLIj4-YGW_V_U7RvKiQB6LbOhSWHKLF8fINTNeMBmy1tB-LxTlLpcIaeBGc1R8LTLCrcGef3I1MHxTPnmyZmnqd0qI79VqoREVkj7ffmmUYDJJORXj5xmgxJifewfrubLfObqcOJuGEWnudgI8dGgT0W5cKHAOBIGkvNYRb2Qu-LgSGDJBYEC_ktzHyc9xIOw2aICkXpea0YOkGSrSSn8Ph3fiH-0G4QwwHP3atUealqUeuo8tWMylU6C3PVB0w"}}'
@@ -55,4 +55,5 @@ services:
       <<: *airflow-common-env
     volumes:
       - ./dags:/opt/airflow/dags
+      - ../sync-jobs:/opt/airflow/sync-jobs
     command: scheduler

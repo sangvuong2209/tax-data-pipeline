@@ -12,6 +12,7 @@ có updated_at mới hơn mốc lần chạy trước (lưu trong clean.dong_bo_
 Mọi thay đổi được ghi vào clean.dong_bo_nnt_log để truy vết.
 """
 
+import os
 import sys
 import uuid
 from datetime import datetime, timezone
@@ -21,10 +22,11 @@ import psycopg2.extras
 import requests
 
 BTC_DB_CONFIG = {
-    "host": "localhost", "port": 5433, "dbname": "finance_sample",
+    "host": os.environ.get("BTC_DB_HOST", "localhost"), "port": 5433, "dbname": "finance_sample",
     "user": "admin", "password": "admin123456",
 }
-NATIONAL_API_DONG_BO_URL = "http://localhost:8001/api/v1/cong-dan/dong-bo"
+NATIONAL_API_HOST = os.environ.get("NATIONAL_API_HOST", "localhost")
+NATIONAL_API_DONG_BO_URL = f"http://{NATIONAL_API_HOST}:8001/api/v1/cong-dan/dong-bo"
 TEN_JOB = "dong_bo_dan_cu"
 KICH_THUOC_LO = 500  # số định danh gửi mỗi lần gọi API
 
